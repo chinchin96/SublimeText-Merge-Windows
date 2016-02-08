@@ -1,0 +1,5 @@
+{
+  "keys": ["alt+shift+control+m"],
+  "command": "mergewindows"
+
+}
