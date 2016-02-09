@@ -9,14 +9,11 @@ Download the package and place in the following directory: `Sublime Text 3/Packa
 
 **What's in the Box:**
 
-`Default (Linux).sublime-keymap.json` — Key Binding Default for Linux  
-`Default (OSX).sublime-keymap`  — Key Binding Default for OSX  
-`Default (Windows).sublime-keymap.json` — Key Binding Dfeault for Windows  
 `Default.sublime-commands`  — Command Palette Menu  
-`mergewindows.py`  — Python Code that makes it all work!  
+`mergewindows.py`  — Python Code that makes it work! 
 
 ##Usage
-The default key-binding is **⌃⌥⇧M** (control-alt-shift-M). This binding can be changed by adding the following to your '`Bindings - User`' file:
+The is not key-boudn by dfeault. However, the key binding a I like to use is **⌃⌥⇧M** (control-alt-shift-M). This binding can be used by adding the following to your '`Bindings - User`' file:
 
 `{`  
   `"keys": ["alt+shift+control+m"],`  
@@ -33,4 +30,7 @@ Hey—this is my first (1) Sublime Plugin (2) Github Project. How's about some e
 
 ##Questions
 Contact me at chinchin96(at)(google)(mail)dot(com)
+
+
+
 
