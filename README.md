@@ -1,6 +1,8 @@
 # SublimeText-Merge-Windows
 This Plugin allows the merging of all tabs in separate windows into a single window in SublimeText 3
 
+![alt tag](https://cloud.githubusercontent.com/assets/2515460/12905357/95bf51f4-cea4-11e5-8ce2-3e8bed82b178.gif)
+
 ##Background
 If you've ever had multple windows, with several tabs in each, and then wanted to consolidate them all into a single window with a keyboard shortuct in Sublime Text 3, this plugin is your solution. Witih an editabled key-binding/shortcut (or through the command palette), all tabs of every window will be consolidate into one window.
 
