@@ -11,16 +11,18 @@ Download the package and place in the following directory: `Sublime Text 3/Packa
 
 **What's in the Box:**  
 
-`Default.sublime-commands`  — Command Palette Menu  
-`mergewindows.py`  — Python Code that makes it work! 
+**Default.sublime-commands**  — Command Palette Menu  
+**mergewindows.py**  — Python Code that makes it work! 
 
 ## Usage   
 The is not key-bound by default. However, the key binding a I like to use is **⌃⌥⇧M** (control-alt-shift-M). This binding can be used by adding the following to your '`Bindings - User`' file:
 
-`{`  
-  `"keys": ["alt+shift+control+m"],`  
-  `"command": "mergewindows"`  
-`}`  
+```
+{  
+  "keys": ["alt+shift+control+m"],
+  "command": "mergewindows"
+}
+```
 
 Don't forget to add a "`,`" if it's not the last item in your list of bindings. Feel free to change the binding as needed.
 
