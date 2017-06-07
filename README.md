@@ -28,12 +28,7 @@ Don't forget to add a trailing "`,`" if it's not the last item in your list of b
 Actually, **huge** credit goes to two folks frmo the Sublime Text Forum this enhancement: **@FichteFoll** for the orignal recommendation and **@valerij** for improving it to maintain tab names of unsaved file. 
 
 ## Donations  
-Hey— so this is my first:
-
-1. Sublime Plugin
-2. Github Project. 
-
-How's about some encouragement? But of course, only if you feel like it: paypal.me/chinchin96
+paypal.me/chinchin96
 
 ## Questions  
 Contact me at chinchin96(at)(google)(mail)dot(com)
