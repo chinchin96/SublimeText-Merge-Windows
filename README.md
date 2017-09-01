@@ -13,7 +13,8 @@ Easiest way to install is to use package control (⌘ + ⇧ + P) — that is com
 
 OR
 
-**Manual**
+**Manual**  
+
 Download the package and place in the following directory: `Sublime Text 3/Packages/`. 
 
 **Here's what's in the Box:**
